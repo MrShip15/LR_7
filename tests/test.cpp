@@ -1,4 +1,4 @@
-// Copyright 2021 Levon Avakimyanc levon.avakimyanc.01@mail.ru
+// Copyright 2020 MrShip15 mr.shi15@gmail.ru
 
 #include <gtest/gtest.h>
 
